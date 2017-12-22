@@ -57,5 +57,8 @@ git commit -m "first commit"
 git remote add origin git@github.com:HamidBenoum/decathproductapp.git
 git push -u origin master
 
+Created postgresql-rugged-68033 as DATABASE_URL
+
+DATABASE_URL: postgres://ykmkaoulpxxoob:551c5e4f3749ee9be2f32c713b60ba6c295746709bb0b6d7c9e6b81e3f4e2dba@ec2-54-83-46-116.compute-1.amazonaws.com:5432/db338rkdoc780h
 
 */
